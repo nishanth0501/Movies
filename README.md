@@ -1,7 +1,7 @@
 # Movies Hub
 A Movies List app that is made with html,css and javascript.
 
-# Link : 
+# Link : https://nishanth0501.github.io/Movies/
 
 # Features 
 - Ability to search 
